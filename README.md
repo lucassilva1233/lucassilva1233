@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+### BOAS VINDAS AO MEU PERFIL;  HEA
 **lucassilva1233/lucassilva1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![](https://media.tenor.com/9EtSsTamY5UAAAAM/joinha-c%C3%A1ssio-ramos.gif) 
